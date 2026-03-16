@@ -44,7 +44,7 @@ h2 a:hover {
 
 table {
   border-collapse: collapse;
-  width: 80%;
+  width: 100%;
   font-family: sans-serif;
 }
 
@@ -56,7 +56,7 @@ th, td {
 th {
   background-color: #f2f2f2;
   text-align: left;
-  width: 30%;
+  width: 20%;
 }
 
 tr:nth-child(even) td {
