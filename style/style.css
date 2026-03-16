@@ -44,9 +44,10 @@ h2 a:hover {
 
 table {
   border-collapse: collapse;
-  width: 100%;
+  width: auto;
   font-family: sans-serif;
 }
+
 
 th, td {
   border: 1px solid #cccccc;
